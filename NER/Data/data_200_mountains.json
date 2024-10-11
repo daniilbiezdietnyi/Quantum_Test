@@ -1,0 +1,1006 @@
+[   {
+        "id": "0",
+        "tokens": ["Mount", "Everest", "is", "the", "highest", "mountain", "in", "the", "world", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "1",
+        "tokens": ["K2", "is", "also", "known", "as", "Mount", "Godwin-Austen", "."],
+        "ner_tags": [1, 0, 0, 0, 0, 1, 2, 0]
+    },
+    {
+        "id": "2",
+        "tokens": ["The", "Rocky", "Mountains", "are", "in", "North", "America", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "3",
+        "tokens": ["Mount", "Kilimanjaro", "is", "the", "highest", "mountain", "in", "Africa", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "4",
+        "tokens": ["The", "Andes", "is", "a", "major", "mountain", "range", "in", "South", "America", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "5",
+        "tokens": ["Mount", "Fuji", "is", "an", "active", "volcano", "in", "Japan", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "6",
+        "tokens": ["The", "Himalayas", "are", "famous", "for", "their", "height", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "7",
+        "tokens": ["Mount", "Denali", "is", "the", "highest", "peak", "in", "North", "America", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "8",
+        "tokens": ["The", "Alps", "are", "a", "popular", "tourist", "destination", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "9",
+        "tokens": ["Mount", "Elbrus", "is", "the", "highest", "mountain", "in", "Europe", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "10",
+        "tokens": ["The", "Appalachian", "Mountains", "are", "located", "in", "the", "Eastern", "United", "States", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "11",
+        "tokens": ["Mount", "Aconcagua", "is", "the", "highest", "peak", "in", "South", "America", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "12",
+        "tokens": ["The", "Sierra", "Nevada", "is", "known", "for", "its", "beautiful", "landscapes", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "13",
+        "tokens": ["Mount", "K2", "is", "the", "second-highest", "mountain", "in", "the", "world", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "14",
+        "tokens": ["Mount", "Vesuvius", "is", "an", "active", "volcano", "in", "Italy", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "15",
+        "tokens": ["The", "Pyrenees", "form", "the", "natural", "border", "between", "France", "and", "Spain", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "16",
+        "tokens": ["Mount", "Rainier", "is", "an", "iconic", "peak", "in", "Washington", "State", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "17",
+        "tokens": ["The", "Drakensberg", "Mountains", "are", "in", "South", "Africa", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "18",
+        "tokens": ["Mount", "Kosciuszko", "is", "the", "highest", "mountain", "in", "Australia", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "19",
+        "tokens": ["The", "Zagros", "Mountains", "are", "located", "in", "Iran", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "20",
+        "tokens": ["Mount", "St", "Helens", "is", "located", "in", "Washington", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "21",
+        "tokens": ["The", "Appalachians", "are", "famous", "for", "their", "lush", "forests", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "22",
+        "tokens": ["Mount", "Whitney", "is", "the", "highest", "point", "in", "California", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "23",
+        "tokens": ["The", "Himalayan", "range", "includes", "Mount", "Everest", "and", "K2", "."],
+        "ner_tags": [1, 2, 0, 0, 1, 2, 0, 0, 0] 
+    },
+    {
+        "id": "24",
+        "tokens": ["Mount", "Shasta", "is", "an", "active", "volcano", "in", "Northern", "California", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "25",
+        "tokens": ["The", "Carpathian", "Mountains", "are", "located", "in", "Central", "and", "Eastern", "Europe", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "26",
+        "tokens": ["Mount", "Etna", "is", "the", "highest", "active", "volcano", "in", "Europe", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "27",
+        "tokens": ["The", "Teton", "Range", "is", "a", "popular", "destination", "for", "hiking", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "28",
+        "tokens": ["Mount", "Rainier", "is", "iconic", "for", "its", "snow-covered", "peak", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "29",
+        "tokens": ["The", "Mount", "Blanc", "is", "the", "highest", "mountain", "in", "the", "Alps", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "30",
+        "tokens": ["Climbing", "Mount", "Elbrus", "is", "a", "challenging", "experience", "for", "many", "mountaineers", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "31",
+        "tokens": ["The", "Ganges", "river", "flows", "down", "from", "the", "Himalayas", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "32",
+        "tokens": ["Mount", "Vesuvio", "is", "noted", "for", "its", "historic", "eruption", "in", "79", "AD", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "33",
+        "tokens": ["The", "Pyrenees", "separate", "France", "and", "Spain", "with", "beautiful", "landscapes", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "34",
+        "tokens": ["Many", "people", "hike", "in", "the", "Cascades", "during", "the", "summer", "."],
+        "ner_tags": [1, 0, 0, 0, 0, 2, 0, 0, 0, 0]  
+    },
+    {
+        "id": "35",
+        "tokens": ["Mount", "Baker", "is", "a", "popular", "destination", "for", "snowboarding", "in", "Washington", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "36",
+        "tokens": ["The", "Sierra", "Nevada", "mountains", "are", "home", "to", "Lake", "Tahoe", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "37",
+        "tokens": ["Many", "travelers", "visit", "the", "Dolomites", "for", "their", "breathtaking", "views", "."],
+        "ner_tags": [1, 0, 0, 0, 2, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "38",
+        "tokens": ["The", "Rockies", "are", "known", "for", "their", "stunning", "scenery", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "39",
+        "tokens": ["Mount", "Zion", "National", "Park", "offers", "some", "of", "the", "best", "hiking", "trails", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "40",
+        "tokens": ["The", "Karakoram", "range", "is", "home", "to", "some", "of", "the", "world", "highest", "peaks", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "41",
+        "tokens": ["Mount", "Kilimanjaro", "is", "the", "highest", "free-standing", "mountain", "in", "the", "world", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "42",
+        "tokens": ["Many", "hikers", "attempt", "to", "reach", "the", "summit", "of", "Mount", "St", "Helens", "."],
+        "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0] 
+    },
+    {
+        "id": "43",
+        "tokens": ["The", "Alps", "are", "home", "to", "some", "of", "the", "best", "skiing", "resorts", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "44",
+        "tokens": ["Mount", "Ararat", "is", "often", "associated", "with", "the", "story", "of", "Noah", "in", "the", "Bible", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "45",
+        "tokens": ["The", "Himalayan", "trail", "offers", "a", "unique", "experience", "for", "trekkers", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "46",
+        "tokens": ["Mount", "Gorgonio", "is", "the", "highest", "peak", "in", "Southern", "California", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "47",
+        "tokens": ["The", "Kilimanjaro", "National", "Park", "is", "a", "UNESCO", "World", "Heritage", "Site", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "48",
+        "tokens": ["Many", "tourists", "visit", "the", "Rila", "Mountains", "in", "Bulgaria", "every", "year", "."],
+        "ner_tags": [1, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "49",
+        "tokens": ["The", "peak", "of", "Mount", "Denali", "is", "often", "shrouded", "in", "clouds", "making", "it", "a", "mysterious", "site", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "50",
+        "tokens": ["Hiking", "in", "the", "Swiss", "Alps", "offers", "breathtaking", "views", "of", "the", "snow-capped", "mountains", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "51",
+        "tokens": ["The", "scenic", "trails", "around", "Mount", "Tamalpais", "are", "popular", "among", "locals", "and", "visitors", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "52",
+        "tokens": ["From", "the", "top", "of", "Mount", "Elbrus", ",", "you", "can", "see", "for", "miles", "across", "the", "landscape", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "53",
+        "tokens": ["Many", "climbers", "dream", "of", "standing", "on", "top", "of", "Mount", "Aconcagua", ",", "the", "highest", "peak", "in", "South", "America", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "54",
+        "tokens": ["The", "base", "camp", "at", "Mount", "Kilimanjaro", "is", "a", "hub", "for", "adventurers", "from", "around", "the", "world", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "55",
+        "tokens": ["As", "the", "first", "light", "of", "dawn", "breaks", "over", "Mount", "Everest", ",", "the", "sight", "is", "breathtaking", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "56",
+        "tokens": ["The", "Chilean", "Andes", "are", "home", "to", "many", "notable", "peaks", "including", "Mount", "Ojos", "del", "Salado", "."],
+        "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0]  
+    },
+    {
+        "id": "57",
+        "tokens": ["People", "often", "visit", "the", "Sierra", "Nevada", "mountains", "for", "skiing", "and", "hiking", "adventures", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "58",
+        "tokens": ["The", "summit", "of", "Mount", "Rainier", "is", "a", "famous", "landmark", "in", "Washington", "State", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "59",
+        "tokens": ["In", "summer", ",", "Mount", "Fitzroy", "attracts", "hikers", "who", "want", "to", "experience", "its", "stunning", "views", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0,0,0]  
+    },
+    {
+        "id": "60",
+        "tokens": ["The", "ancient", "trails", "of", "the", "Inca", "lead", "to", "the", "foothills", "of", "Mount", "Machu", "Picchu", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0]
+    },
+    {
+        "id": "61",
+        "tokens": ["Mount", "Shasta", "is", "a", "stratovolcano", "in", "California", "and", "is", "known", "for", "its", "beautiful", "snow", "caps", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ,0]
+    },
+    {
+        "id": "62",
+        "tokens": ["Many", "photographers", "flock", "to", "Mount", "Yosemite", "to", "capture", "the", "beautiful", "landscapes", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "63",
+        "tokens": ["As", "you", "drive", "through", "the", "Rocky", "Mountains", ",", "you", "will", "see", "incredible", "sights", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0 ,0] 
+    },
+    {
+        "id": "64",
+        "tokens": ["One", "of", "the", "most", "iconic", "mountains", "in", "the", "world", "is", "Mount", "Fuji", "in", "Japan", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2,0, 0, 0]
+    },
+    {
+        "id": "65",
+        "tokens": ["For", "many", ",", "climbing", "Mount", "K2", "is", "considered", "the", "ultimate", "challenge", "in", "the", "mountaineering", "world", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "66",
+        "tokens": ["The", "great", "expanses", "of", "the", "Himalayas", "offer", "endless", "adventures", "for", "hikers", "and", "climbers", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0 ,0, 0]  
+    },
+    {
+        "id": "67",
+        "tokens": ["Mount", "Rainier", "is", "a", "prominent", "landmark", "in", "the", "Pacific", "Northwest", "of", "the", "United", "States", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "68",
+        "tokens": ["The", "path", "to", "the", "summit", "of", "Mount", "Zion", "offers", "stunning", "views", "of", "the", "surrounding", "landscape", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "69",
+        "tokens": ["While", "traveling", "in", "Italy", ",", "the", "sight", "of", "Mount", "Etna", "is", "unforgettable", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0] 
+    },
+    {
+        "id": "70",
+        "tokens": ["Exploring", "the", "Granite", "Peaks", "of", "Yosemite", "National", "Park", "is", "a", "favorite", "pastime", "for", "many", "."],
+        "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0] 
+    },
+    {
+        "id": "71",
+        "tokens": ["Mount", "Aconcagua", "is", "the", "highest", "mountain", "in", "the", "Western", "Hemisphere", "at", "6,961", "meters", "above", "sea", "level", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "72",
+        "tokens": ["The", "Rocky", "Mountains", "are", "known", "for", "their", "vast", "wildlife", "and", "diverse", "ecosystems", "."],
+        "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0,0,0] 
+    },
+    {
+        "id": "73",
+        "tokens": ["When", "visiting", "South", "America", ",", "be", "sure", "to", "hike", "up", "Mount", "Fitzroy", "to", "experience", "its", "beauty", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "74",
+        "tokens": ["Mount", "Hood", "is", "an", "iconic", "volcano", "located", "in", "Oregon", "that", "draws", "many", "outdoor", "enthusiasts", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "75",
+        "tokens": ["The", "climbing", "route", "to", "Mount", "McKinley", "is", "considered", "one", "of", "the", "most", "challenging", "in", "North", "America", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "76",
+        "tokens": ["Many", "people", "visit", "the", "Scottish", "Highlands", "to", "hike", "up", "Ben", "Nevis", ",", "the", "highest", "mountain", "in", "the", "UK", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "77",
+        "tokens": ["The", "peaks", "of", "the", "Himalayas", "are", "home", "to", "the", "highest", "mountains", "in", "the", "world", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "78",
+        "tokens": ["Mount", "Sierra", "is", "famous", "for", "its", "rugged", "terrain", "and", "breathtaking", "scenery", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "79",
+        "tokens": ["In", "the", "Canadian", "Rockies", ",", "the", "views", "from", "Mount", "Robson", "are", "simply", "stunning", "."],
+        "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]  
+    },
+    {
+        "id": "80",
+        "tokens": ["Climbing", "Mount", "Taygetus", "is", "a", "rewarding", "experience", "for", "enthusiasts", "seeking", "challenge", "."],
+        "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "81",
+        "tokens": ["From", "the", "base", "of", "Mount", "Olympus", ",", "you", "can", "enjoy", "a", "variety", "of", "outdoor", "activities", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "82",
+        "tokens": ["The", "volcanic", "landscape", "of", "Mount", "St", "Helens", "is", "a", "testament", "to", "the", "power", "of", "nature", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "83",
+        "tokens": ["Hiking", "to", "the", "summit", "of", "Mount", "Tam", "provides", "a", "panoramic", "view", "of", "the", "Bay", "Area", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "84",
+        "tokens": ["In", "Nepal", ",", "Mount", "Annapurna", "is", "part", "of", "the", "Himalayas", "and", "is", "known", "for", "its", "challenging", "climbs", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 ,0] 
+    },
+    {
+        "id": "85",
+        "tokens": ["The", "Alps", "are", "home", "to", "many", "famous", "peaks", "including", "the", "magnificent", "Mont", "Blanc", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]  
+    },
+    {
+        "id": "86",
+        "tokens": ["During", "my", "trip", "to", "Switzerland", ",", "I", "hiked", "up", "the", "famous", "Matterhorn", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]  
+    },
+    {
+        "id": "87",
+        "tokens": ["Many", "travelers", "dream", "of", "climbing", "Mount", "Kilimanjaro", "for", "the", "incredible", "views", "from", "the", "top", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "88",
+        "tokens": ["The", "jagged", "peaks", "of", "the", "Dolomites", "in", "Italy", "are", "a", "hiker", "s", "paradise", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0 ,0]  
+    },
+    {
+        "id": "89",
+        "tokens": ["From", "the", "base", "of", "Mount", "Fuji", ",", "the", "landscape", "is", "breathtaking", "and", "serene", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "90",
+        "tokens": ["The", "Australian", "Alps", "are", "home", "to", "the", "spectacular", "Mount", "Kosciuszko", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 1, 2, 0]  
+    },
+    {
+        "id": "91",
+        "tokens": ["On", "clear", "days", ",", "you", "can", "see", "Mount", "Rainier", "from", "Seattle", "in", "the", "distance", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0 ,0] 
+    },
+    {
+        "id": "92",
+        "tokens": ["Mount", "Elbrus", "is", "the", "highest", "mountain", "in", "Europe", "and", "a", "popular", "climbing", "destination", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "93",
+        "tokens": ["Visiting", "the", "Peaks", "of", "Europe", "includes", "trips", "to", "the", "majestic", "Mont", "Blanc", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]  
+    },
+    {
+        "id": "94",
+        "tokens": ["The", "mountain", "range", "of", "the", "Andes", "is", "home", "to", "many", "famous", "peaks", "including", "Aconcagua", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0] 
+    },
+    {
+        "id": "95",
+        "tokens": ["At", "the", "end", "of", "the", "day", ",", "the", "sunset", "over", "Mount", "Shasta", "is", "breathtaking", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0] 
+    },
+    {
+        "id": "96",
+        "tokens": ["Mount", "Lassen", "is", "an", "active", "volcano", "that", "is", "part", "of", "the", "Lassen", "Volcanic", "National", "Park", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ,0]  
+    },
+    {
+        "id": "97",
+        "tokens": ["I", "love", "the", "winter", "sports", "available", "at", "Aspen", "Mountain", "in", "Colorado", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0]  
+    },
+    {
+        "id": "98",
+        "tokens": ["The", "views", "from", "the", "top", "of", "Mount", "Himal", "are", "breathtaking", "and", "inspiring", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "99",
+        "tokens": ["I", "have", "always", "wanted", "to", "visit", "Mount", "Kilimanjaro", "to", "experience", "its", "natural", "beauty", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0 ,0]  
+    },
+    {
+        "id": "100",
+        "tokens": ["Exploring", "the", "landscapes", "around", "Mount", "Meru", "is", "a", "rewarding", "experience", "for", "adventure", "seekers", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "101",
+        "tokens": ["The", "Great", "Smoky", "Mountains", "are", "famous", "for", "their", "diverse", "flora", "and", "fauna", "."],
+        "ner_tags": [1, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0 ,0] 
+    },
+    {
+        "id": "102",
+        "tokens": ["The", "Balkan", "Mountains", "are", "a", "great", "destination", "for", "hikers", "seeking", "natural", "beauty", "."],
+        "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0 ,0]  
+    },
+    {
+        "id": "103",
+        "tokens": ["I", "have", "always", "been", "fascinated", "by", "the", "great", "Peaks", "of", "the", "Himalayas", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 0] 
+    },
+    {
+        "id": "104",
+        "tokens": ["Mount", "Sierra", "is", "a", "popular", "spot", "for", "rock", "climbers", "and", "nature", "lovers", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "105",
+        "tokens": ["After", "hiking", "through", "the", "forest", ",", "we", "finally", "reached", "the", "top", "of", "Mount", "Rainer", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0] 
+    },
+    {
+        "id": "106",
+        "tokens": ["Mount", "Aconcagua", "in", "Argentina", "is", "the", "highest", "peak", "in", "South", "America", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "107",
+        "tokens": ["In", "Alaska", ",", "the", "Denali", "National", "Park", "offers", "stunning", "views", "of", "Mount", "Denali", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0] 
+    },
+    {
+        "id": "108",
+        "tokens": ["Mount", "Zermatt", "is", "known", "for", "its", "scenic", "trails", "and", "breathtaking", "landscapes", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "109",
+        "tokens": ["While", "traveling", "in", "India", ",", "I", "was", "amazed", "by", "the", "beauty", "of", "Mount", "Kedarnath", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0] 
+    },
+    {
+        "id": "110",
+        "tokens": ["The", "Himalayan", "range", "includes", "not", "just", "Mount", "Everest", "but", "many", "other", "majestic", "peaks", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "111",
+        "tokens": ["In", "the", "Rocky", "Mountains", ",", "many", "hikers", "seek", "the", "challenging", "trails", "of", "Mount", "Whitney", "."],
+        "ner_tags": [0, 0, 1, 2, 0, 0,0, 0, 0, 0, 0, 0, 1, 2, 0] 
+    },
+    {
+        "id": "112",
+        "tokens": ["Mount", "Rainier", "is", "a", "prominent", "landmark", "in", "the", "Pacific", "Northwest", "region", "of", "the", "USA", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "113",
+        "tokens": ["The", "Southern", "Alps", "of", "New", "Zealand", "are", "home", "to", "Mount", "Cook", "which", "is", "a", "popular", "destination", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "114",
+        "tokens": ["Explorers", "often", "face", "harsh", "conditions", "on", "their", "journeys", "to", "the", "top", "of", "Mount", "Everest", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 1, 2, 0]  
+    },
+    {
+        "id": "115",
+        "tokens": ["The", "Cascade", "Mountains", "are", "known", "for", "their", "lush", "forests", "and", "breathtaking", "views", "of", "Mount", "St. Helens", "."],
+        "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 1, 2, 0]  
+    },
+    {
+        "id": "116",
+        "tokens": ["From", "the", "summit", "of", "Mount", "Lindsey", ",", "you", "can", "see", "the", "vast", "landscape", "below", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "117",
+        "tokens": ["In", "the", "morning", ",", "the", "sun", "rises", "over", "Mount", "Shasta", "creating", "a", "beautiful", "view", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "118",
+        "tokens": ["The", "Tatra", "Mountains", "offer", "amazing", "scenery", "and", "are", "popular", "with", "outdoor", "enthusiasts", "."],
+        "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "119",
+        "tokens": ["With", "its", "stunning", "landscapes", ",", "Mount", "Hood", "is", "a", "favorite", "for", "photographers", "and", "hikers", "."],
+        "ner_tags": [0, 0, 0, 0, 0,1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "id": "120",
+        "tokens": ["While", "visiting", "Japan", ",", "the", "beauty", "of", "Mount", "Fuji", "took", "my", "breath", "away", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "121",
+        "tokens": ["In", "the", "autumn", ",", "the", "colors", "of", "the", "Appalachian", "Mountains", "are", "simply", "breathtaking", "."],
+        "ner_tags": [0, 0, 0, 0,0, 0, 0, 0, 1, 2, 0, 0, 0, 0] 
+    },
+    {
+        "id": "122",
+        "tokens": ["One", "of", "the", "most", "challenging", "climbs", "is", "to", "the", "summit", "of", "Mount", "Kilimanjaro", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0, 1, 2, 0]  
+    },
+    {
+        "id": "123",
+        "tokens": ["I", "always", "wanted", "to", "see", "the", "great", "Machu", "Picchu", "and", "the", "surrounding", "mountains", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0 ,0] 
+    },
+    {
+        "id": "124",
+        "tokens": ["Mount", "St. Helens", "is", "an", "active", "volcano", "located", "in", "Washington", "State", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "125",
+        "tokens": ["As", "the", "sun", "sets", "behind", "the", "Rocky", "Mountains", ",", "the", "sky", "lights", "up", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "126",
+        "tokens": ["The", "mountains", "in", "the", "Swiss", "Alps", "are", "renowned", "for", "their", "stunning", "beauty", "."],
+        "ner_tags": [0,0,0,0,1, 2, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "127",
+        "tokens": ["At", "the", "heart", "of", "the", "Pyrenees", "lies", "the", "impressive", "Aneto", ",", "the", "highest", "peak", "."],
+        "ner_tags": [0, 0, 0, 0, 0,1, 2, 0,0, 0, 1, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "128",
+        "tokens": ["Visiting", "the", "landmarks", "of", "Mount", "Everest", "is", "on", "my", "bucket", "list", "."],
+        "ner_tags": [0, 0, 0, 0,1, 2, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "129",
+        "tokens": ["During", "our", "trip", "to", "Canada", ",", "we", "explored", "the", "majestic", "Rocky", "Mountains", "."],
+        "ner_tags": [0, 0, 0, 0, 0,0 ,0, 0, 0, 0, 1, 2, 0] 
+    },
+    {
+        "id": "130",
+        "tokens": ["In", "the", "highlands", "of", "Scotland", ",", "Ben", "Nevis", "is", "the", "highest", "mountain", "in", "the", "UK", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "131",
+        "tokens": ["For", "many", "hikers", ",", "the", "summit", "of", "Mount", "Aconcagua", "is", "a", "true", "test", "of", "endurance", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "132",
+        "tokens": ["Mount", "Kenya", "is", "the", "second", "highest", "mountain", "in", "Africa", ",", "after", "Kilimanjaro", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,0] 
+    },
+    {
+        "id": "133",
+        "tokens": ["With", "its", "towering", "peaks", ",", "the", "Andes", "are", "home", "to", "many", "renowned", "mountains", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0,1, 2, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "134",
+        "tokens": ["The", "view", "from", "the", "top", "of", "Mount", "Elbrus", "is", "breathtaking", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0]  
+    },
+    {
+        "id": "135",
+        "tokens": ["Hiking", "through", "the", "Andes", "offers", "some", "of", "the", "best", "scenery", "in", "the", "world", "."],
+        "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+    },
+    {
+        "id": "136",
+        "tokens": ["The", "Greenland", "ice", "cap", "is", "home", "to", "many", "tall", "mountains", "and", "glaciers", "."],
+        "ner_tags": [1, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0 ,0]  
+    },
+    {
+        "id": "137",
+        "tokens": ["Many", "people", "travel", "to", "experience", "the", "beauty", "of", "the", "Rocky", "Mountains", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0,0, 0, 0, 1, 2, 0] 
+    },
+    {
+        "id": "138",
+        "tokens": ["Mount", "Rainer", "is", "an", "iconic", "landmark", "in", "Washington", "State", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "139",
+        "tokens": ["The", "tallest", "mountain", "in", "Africa", "is", "Mount", "Kilimanjaro", "which", "is", "famous", "for", "its", "snowcap", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0,0,0]  
+    },
+    {
+        "id": "140",
+        "tokens": ["Known", "for", "its", "volcanic", "activity", ",", "Mount", "Vesuvius", "overlooks", "the", "Bay", "of", "Naples", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "141",
+        "tokens": ["The", "Himalayas", "are", "home", "to", "some", "of", "the", "world’s", "most", "famous", "mountains", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "142",
+        "tokens": ["Exploring", "the", "scenery", "of", "the", "Appalachians", "is", "a", "great", "adventure", "."],
+        "ner_tags": [0,0,0,0,1,2, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "143",
+        "tokens": ["We", "saw", "the", "massive", "Mount", "Shasta", "during", "our", "road", "trip", "across", "California", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "144",
+        "tokens": ["Many", "tourists", "visit", "the", "Alps", "to", "enjoy", "the", "amazing", "scenery", "and", "hiking", "trails", "."],
+        "ner_tags": [0, 0, 0, 0,1, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "145",
+        "tokens": ["Mount", "Whitney", "is", "the", "highest", "peak", "in", "the", "contiguous", "United", "States", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0,0]  
+    },
+    {
+        "id": "146",
+        "tokens": ["Mount", "Rainier", "is", "often", "covered", "in", "snow", "and", "ice", ".", "It", "is", "a", "striking", "sight", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "147",
+        "tokens": ["The", "Sierra", "Nevada", "mountains", "are", "stunning", "in", "the", "winter", "season", "."],
+        "ner_tags": [1,2, 2, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "148",
+        "tokens": ["During", "our", "trip", "to", "Hawaii", ",", "we", "visited", "the", "magnificent", "Mauna", "Kea", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]   
+    },
+    {
+        "id": "149",
+        "tokens": ["Climbing", "the", "highest", "mountains", "is", "an", "experience", "like", "no", "other", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "150",
+        "tokens": ["For", "many", "climbers", ",", "the", "challenge", "of", "Mount", "Himalaya", "is", "incredible", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]   
+    },
+    {
+        "id": "151",
+        "tokens": ["The", "trails", "around", "Mount", "Sierra", "offer", "spectacular", "views", "and", "wildlife", "sightings", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "152",
+        "tokens": ["I", "dream", "of", "trekking", "to", "the", "summit", "of", "Mount", "K2", "one", "day", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0,0, 0, 1, 2, 0, 0, 0]   
+    },
+    {
+        "id": "153",
+        "tokens": ["Mount", "Aconcagua", "is", "the", "highest", "peak", "in", "South", "America", "and", "a", "popular", "destination", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0]  
+    },
+    {
+        "id": "154",
+        "tokens": ["Many", "people", "flock", "to", "the", "great", "Appalachian", "Mountains", "for", "hiking", "and", "camping", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "155",
+        "tokens": ["The", "tall", "peaks", "of", "Mount", "Denali", "are", "a", "testament", "to", "nature", "at", "its", "finest", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "156",
+        "tokens": ["In", "the", "winter", ",", "the", "Alps", "transform", "into", "a", "paradise", "for", "skiers", "."],
+        "ner_tags": [0,0,0,0,1, 2, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "157",
+        "tokens": ["The", "mystical", "beauty", "of", "Mount", "Fuji", "is", "captured", "in", "many", "works", "of", "art", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "158",
+        "tokens": ["While", "visiting", "Chile", ",", "I", "was", "inspired", "by", "the", "sights", "of", "Mount", "Ojos", "del", "Salado", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0,0, 0, 0, 1, 2, 2, 2, 0]   
+    },
+    {
+        "id": "159",
+        "tokens": ["The", "local", "community", "celebrates", "the", "beauty", "of", "Mount", "Baker", "during", "the", "summer", "months", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "160",
+        "tokens": ["Standing", "tall", ",", "Mount", "Meru", "is", "famous", "among", "climbers", "for", "its", "challenges", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "161",
+        "tokens": ["Explorers", "have", "long", "been", "fascinated", "by", "the", "mysteries", "of", "Mount", "Athos", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]   
+    },
+    {
+        "id": "162",
+        "tokens": ["Visiting", "Mount", "Aconcagua", "requires", "proper", "preparation", "and", "a", "good", "level", "of", "fitness", "."],
+        "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "163",
+        "tokens": ["Many", "adventurers", "dream", "of", "scaling", "Mount", "Zugspitze", "in", "Germany", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0]   
+    },
+    {
+        "id": "164",
+        "tokens": ["For", "skiing", "enthusiasts", ",", "the", "Rocky", "Mountains", "provide", "some", "of", "the", "best", "slopes", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "165",
+        "tokens": ["Mount", "Toubkal", "is", "the", "highest", "peak", "in", "North", "Africa", "and", "is", "a", "must", "visit", "for", "hikers", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0,0,0,0]  
+    },
+    {
+        "id": "166",
+        "tokens": ["In", "my", "life", ",", "I", "hope", "to", "stand", "on", "top", "of", "Mount", "Hood", "one", "day", "."],
+        "ner_tags": [0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 1, 2,0,0,0]   
+    },
+    {
+        "id": "167",
+        "tokens": ["Hiking", "in", "the", "Himalayas", "is", "an", "experience", "that", "many", "seek", "to", "enjoy", "."],
+        "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "168",
+        "tokens": ["I", "enjoy", "the", "tranquility", "of", "the", "Rocky", "Mountains", "during", "the", "spring", "time", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0,0,0]  
+    },
+    {
+        "id": "169",
+        "tokens": ["The", "Chugach", "Mountains", "in", "Alaska", "are", "known", "for", "their", "stunning", "landscapes", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0,0]   
+    },
+    {
+        "id": "170",
+        "tokens": ["At", "sunrise", ",", "Mount", "Aoraki", "shines", "beautifully", "against", "the", "clear", "sky", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "171",
+        "tokens": ["The", "Andes", "form", "a", "natural", "border", "between", "Chile", "and", "Argentina", "with", "Mount", "Fitzroy", "as", "one", "of", "the", "most", "iconic", "peaks", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0,0,0]   
+    },
+    {
+        "id": "172",
+        "tokens": ["In", "the", "remote", "parts", "of", "Tibet", ",", "Mount", "Kailash", "is", "considered", "sacred", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 0, 0, 0]   
+    },
+    {
+        "id": "173",
+        "tokens": ["The", "jagged", "peaks", "of", "Mount", "Matterhorn", "are", "a", "climber’s", "dream", "come", "true", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "174",
+        "tokens": ["From", "the", "base", "of", "Mount", "Taranaki", ",", "the", "view", "is", "breathtaking", "and", "serene", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0 ,0]   
+    },
+    {
+        "id": "175",
+        "tokens": ["To", "the", "north", "of", "Nepal", ",", "the", "Annapurna", "Massif", "is", "renowned", "for", "its", "glorious", "peaks", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0 ,1, 2, 0, 0, 0, 0, 0, 0 ,0]  
+    },
+    {
+        "id": "176",
+        "tokens": ["Many", "travelers", "visit", "Mount", "St. Helens", "to", "learn", "about", "its", "volcanic", "history", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "177",
+        "tokens": ["The", "peaks", "of", "the", "Himalayan", "range", "including", "Mount", "Annapurna", "are", "stunning", "to", "behold", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "178",
+        "tokens": ["Mount", "Vancouver", "is", "a", "hidden", "gem", "for", "adventure", "lovers", "who", "seek", "thrills", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0,0,0]  
+    },
+    {
+        "id": "179",
+        "tokens": ["The", "Northern", "Alps", "in", "Japan", "are", "home", "to", "Mount", "Tate", "and", "other", "beautiful", "peaks", "."],
+        "ner_tags": [1, 2, 2, 0, 0, 0, 0,0, 1, 2, 0, 0, 0, 0 ,0 ]   
+    },
+    {
+        "id": "180",
+        "tokens": ["Many", "summit", "the", "majestic", "Mount", "Waddington", "to", "experience", "the", "thrill", "of", "climbing", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "181",
+        "tokens": ["The", "Huascarán", "in", "Peru", "is", "the", "highest", "point", "in", "the", "country", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "182",
+        "tokens": ["In", "the", "southeast", "of", "France", ",", "Mount", "Mont", "Blanc", "stands", "tall", "as", "the", "highest", "peak", "in", "the", "Alps", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]  
+    },
+    {
+        "id": "183",
+        "tokens": ["The", "breathtaking", "views", "from", "the", "summit", "of", "Mount", "Cook", "draw", "in", "many", "visitors", "each", "year", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "184",
+        "tokens": ["Mount", "Torre", "is", "a", "notorious", "climb", "in", "the", "Fitzroy", "region", "of", "Argentina", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "185",
+        "tokens": ["In", "the", "heart", "of", "the", "Canadian", "Rockies", ",", "Mount", "Assiniboine", "is", "a", "popular", "destination", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "186",
+        "tokens": ["Mount", "Elbrus", "is", "the", "highest", "peak", "in", "Europe", "and", "a", "challenging", "climb", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "187",
+        "tokens": ["Explorers", "often", "seek", "the", "mysteries", "of", "Mount", "Himalaya", ",", "a", "sacred", "place", "for", "many", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "188",
+        "tokens": ["I", "am", "planning", "a", "trip", "to", "the", "wonderful", "Mount", "Kilimanjaro", "this", "summer", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0]   
+    },
+    {
+        "id": "189",
+        "tokens": ["The", "snow-capped", "summit", "of", "Mount", "Shasta", "is", "visible", "from", "many", "miles", "away", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0 ,0]   
+    },
+    {
+        "id": "190",
+        "tokens": ["Mount", "Rainer", "is", "known", "for", "its", "majestic", "beauty", "and", "as", "a", "hiking", "destination", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "191",
+        "tokens": ["The", "vistas", "from", "Mount", "McKinley", "are", "absolutely", "breathtaking", ".", "Visitors", "come", "to", "experience", "the", "sight", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "192",
+        "tokens": ["While", "climbing", "Mount", "Baldy", ",", "hikers", "can", "enjoy", "the", "diverse", "flora", "and", "fauna", "of", "the", "region", "."],
+        "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "193",
+        "tokens": ["To", "many", ",", "Mount", "Rainier", "is", "the", "symbol", "of", "Washington", "State", "."],
+        "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "194",
+        "tokens": ["The", "mighty", "Mount", "Aoraki", "is", "a", "sacred", "place", "for", "the", "Maori", "people", "."],
+        "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0 ,0]   
+    },
+    {
+        "id": "195",
+        "tokens": ["Exploring", "the", "mountains", "of", "Italy", ",", "especially", "Mount", "Etna", ",", "is", "always", "an", "adventure", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "196",
+        "tokens": ["The", "majestic", "landscape", "surrounding", "Mount", "Tateyama", "attracts", "photographers", "and", "nature", "lovers", "alike", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]   
+    },
+    {
+        "id": "197",
+        "tokens": ["For", "hikers", "and", "climbers", ",", "the", "famed", "Mount", "Whitney", "is", "a", "must-visit", "destination", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0,0, 1, 2, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "198",
+        "tokens": ["People", "travel", "from", "all", "over", "the", "world", "to", "see", "the", "awe-inspiring", "Mount", "Zion", "National", "Park", "."],
+        "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0]   
+    },
+    {
+        "id": "199",
+        "tokens": ["Mount", "Nirvana", "is", "a", "hidden", "gem", "that", "is", "often", "overlooked", "by", "many", "."],
+        "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  
+    },
+    {
+        "id": "200",
+        "tokens": ["The", "charming", "valleys", "around", "Mount", "Baker", "make", "it", "a", "popular", "spot", "for", "nature", "photography", "."],
+        "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]   
+    }
+]
